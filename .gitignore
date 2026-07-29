@@ -1,0 +1,7 @@
+# build output (Iris.exe ships via Releases, not the repo)
+dist/
+
+# local capture / test artifacts
+test.gif
+rec-*.gif
+shot-*.png
