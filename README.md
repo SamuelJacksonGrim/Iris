@@ -4,6 +4,13 @@
 
 <h1 align="center">Iris</h1>
 
+[![License: AGPL-3.0-only](https://img.shields.io/badge/license-AGPL--3.0--only-blue)](LICENSE)
+[![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![release](https://img.shields.io/github/v/release/SamuelJacksonGrim/Iris)](https://github.com/SamuelJacksonGrim/Iris/releases/latest)
+![status](https://img.shields.io/badge/status-released-success)
+
 <p align="center"><em>A tiny, private, self-contained screenshot &amp; screen-recording tool for Windows.<br>
 No third parties. No telemetry. No cloud. One file.</em></p>
 
@@ -75,7 +82,7 @@ modern Windows install).
 
 ## License
 
-GPL-3.0 — use it, fork it, build on it; just keep your version open too.
+Dual-licensed: [AGPL-3.0-only](LICENSE) or a [commercial license](LICENSING.md).
 
 ---
 
