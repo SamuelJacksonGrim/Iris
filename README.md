@@ -1,3 +1,12 @@
+## License
+
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
 <p align="center">
   <img src="iris-icon-256.png" width="120" alt="Iris icon - a drooped rose beside a gentle eye">
 </p>
@@ -80,10 +89,3 @@ modern Windows install).
 - `Iris.cs` — a tiny C# launcher that carries the script + icon and starts it with no
   console window.
 
-## License
-
-Dual-licensed: [AGPL-3.0-only](LICENSE) or a [commercial license](LICENSING.md).
-
----
-
-<sub>🌹 Iris is the *eye* of a small family of local-first tools. Built to see, and to be given away.</sub>
